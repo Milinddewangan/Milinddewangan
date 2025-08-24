@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the fundamentals of fullstack which includes frontend, backend and Database.**
 
-- 📫 How to reach me **milinddewangan379@gamil.com**
+- 📫 How to reach me **milinddewangan379@gmail.com**
 
 - ⚡ Fun fact **I learn from my failures as I'm an athlete.**
 
