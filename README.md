@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I learn from my failures as I'm an athlete.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
